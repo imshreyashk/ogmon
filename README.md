@@ -1,0 +1,2 @@
+# ogmon
+First github repository
