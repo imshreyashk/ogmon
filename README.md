@@ -1,6 +1,6 @@
 # ogmon
 First github repository
 <br>
-By : Shreyash . kalpund
+By : Shreyash  Kalpund
 
 
